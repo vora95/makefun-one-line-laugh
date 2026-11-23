@@ -4,7 +4,8 @@
 // funny line about everyday life. The joke is specific and visual — a
 // washing machine that eats one sock per load — and the twist lands on the
 // last words: the narrator has decided the machine is raising a family
-// somewhere warm, and wishes it well.
+// somewhere warm, and wishes it well instead of complaining. The generosity
+// of that last clause is the joke: the machine is not a thief, it is a parent.
 //
 // Deterministic: the same bytes on every run. No network, no input.
 import { mkdirSync, writeFileSync } from "node:fs";
